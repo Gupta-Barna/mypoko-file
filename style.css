@@ -1,0 +1,20 @@
+.mit{
+text-align: center;
+margin-bottom: 20px;
+}
+.btn-color{
+    align-items: center;
+    background-color: red;
+    font-weight: 700;
+   
+}
+.foot{
+    border: 1px solid;
+    background-color: black;
+}
+.icon{
+    font-size: 50px;
+}
+.star{
+  color:goldenrod;
+}
